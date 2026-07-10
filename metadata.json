@@ -1,0 +1,6 @@
+{
+  "name": "GeprekHot",
+  "description": "Landing page premium UMKM Ayam Geprek dengan cita rasa pedas membara yang bikin ketagihan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
